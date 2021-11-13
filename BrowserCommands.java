@@ -14,8 +14,8 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 
 public class BrowserCommands {
-	WebDriver driver;
-
+	WebDriver driver; //This is chrome browser
+	//Below code is reviewed by Ketan.
 	@BeforeClass
 	public void preConditionsForAllTests() {
 		System.out.println("I am in Before Class");
