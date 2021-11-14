@@ -16,6 +16,7 @@ import org.testng.annotations.BeforeClass;
 public class BrowserCommands {
 	WebDriver driver; //This is chrome browser
 	//Below code is reviewed by Ketan.
+//This change is to demo how GitHub will reject the push
 	@BeforeClass
 	public void preConditionsForAllTests() {
 		System.out.println("I am in Before Class");
