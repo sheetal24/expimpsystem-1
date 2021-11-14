@@ -42,10 +42,6 @@ public class MyFirstWebDriverTest {
 		// WebDriver driver = new WebDriver();
 		// driver.quit();
 		// WebDriver driver = new WebDriver();
-		// driver.quit();
-		// WebDriver driver = new WebDriver();
-		// driver.quit();
-		// WebDriver driver = new WebDriver();
 
 
 
