@@ -17,6 +17,7 @@ public class BrowserCommands {
 	WebDriver driver; //This is chrome browser
 	//Below code is reviewed by Ketan.
 //This change is to demo how GitHub will reject the push
+	//This is by other user.
 	@BeforeClass
 	public void preConditionsForAllTests() {
 		System.out.println("I am in Before Class");
